@@ -1,5 +1,5 @@
-Test Conflict
--------------
+Test Conflicts
+--------------
 
 ## New Section
 
